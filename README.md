@@ -1,2 +1,2 @@
 # text-to-hex
-A simple python application that converts text to its hexadecimal value
+A simple application that converts text to its hexadecimal value - coded in python
